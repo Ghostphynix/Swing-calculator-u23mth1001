@@ -1,6 +1,7 @@
 # Swing-calculator-u23mth1001
-sam Confidence Iko-ojo.f
+name: sam Confidence Iko-ojo.f
 
-u23mth1001
+matric number: u23mth1001
 
-mathematics department 
+Department: mathematics department 
+Description: a calculator using swing which includes a gui for the calculator.
